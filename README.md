@@ -1,2 +1,2 @@
-# Actividad---Implementaci-n-y-evaluaci-n-de-filtros-digitales.
+# Actividad---Filtros-digitales.
 Simulación y Análisis de filtros digitales.
